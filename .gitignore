@@ -1,0 +1,25 @@
+﻿## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+TestResults/
+coverage/
+*.trx
+
+## Release / Local artifacts
+dist/
+*.zip
+*.log
+*.tmp
+*.fetchy.state
+*.bak
+
+## OS / Editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
