@@ -1,4 +1,4 @@
-﻿## .NET / Visual Studio
+## .NET / Visual Studio
 bin/
 obj/
 .vs/
@@ -15,6 +15,7 @@ dist/
 *.log
 *.tmp
 *.fetchy.state
+*.fetchy.part
 *.bak
 
 ## OS / Editors
